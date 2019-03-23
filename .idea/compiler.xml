@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tech-case-dubbo-adpative" />
+        <module name="tech-case-dubbo-compiler" />
+        <module name="tech-case-dubbo-spi" />
+        <module name="tech-case-netty" />
+        <module name="tech-case-spring-schema" />
+        <module name="tech-case-zk" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tech-case-dubbo-adpative" target="1.5" />
+      <module name="tech-case-dubbo-compiler" target="1.5" />
+      <module name="tech-case-dubbo-spi" target="1.5" />
+      <module name="tech-case-netty" target="1.5" />
+      <module name="tech-case-parent" target="1.5" />
+      <module name="tech-case-spring-schema" target="1.5" />
+      <module name="tech-case-zk" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

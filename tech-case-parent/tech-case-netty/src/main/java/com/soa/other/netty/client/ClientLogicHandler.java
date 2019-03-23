@@ -17,7 +17,7 @@ public class ClientLogicHandler extends SimpleChannelHandler {
         System.out.println("######channelConnected");  
           
         Channel ch = e.getChannel();  
-        String msg = "Hi, Server.by agan";  
+        String msg = "Hi, Server.by simon";
         ch.write(msg);  
     }  
   

@@ -26,7 +26,7 @@ public class SubscribeChildChanges {
         /** 
          * "/testUserNode" 监听的节点，可以是现在存在的也可以是不存在的 
          */  
-        zkClient.subscribeChildChanges("/aganNode", new ZKChildListener());  
+        zkClient.subscribeChildChanges("/simonNode", new ZKChildListener());
         Thread.sleep(Integer.MAX_VALUE);  
     }  
 }

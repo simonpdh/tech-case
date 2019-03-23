@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/tech-case.iml" filepath="$PROJECT_DIR$/.idea/tech-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-adpative/tech-case-dubbo-adpative.iml" filepath="$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-adpative/tech-case-dubbo-adpative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-compiler/tech-case-dubbo-compiler.iml" filepath="$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-compiler/tech-case-dubbo-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-spi/tech-case-dubbo-spi.iml" filepath="$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-spi/tech-case-dubbo-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-case-parent/tech-case-netty/tech-case-netty.iml" filepath="$PROJECT_DIR$/tech-case-parent/tech-case-netty/tech-case-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-case-parent/tech-case-parent.iml" filepath="$PROJECT_DIR$/tech-case-parent/tech-case-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-case-parent/tech-case-spring-schema/tech-case-spring-schema.iml" filepath="$PROJECT_DIR$/tech-case-parent/tech-case-spring-schema/tech-case-spring-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-case-parent/tech-case-zk/tech-case-zk.iml" filepath="$PROJECT_DIR$/tech-case-parent/tech-case-zk/tech-case-zk.iml" />
+    </modules>
+  </component>
+</project>

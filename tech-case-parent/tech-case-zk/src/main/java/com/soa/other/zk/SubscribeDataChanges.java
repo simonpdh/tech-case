@@ -23,7 +23,7 @@ public class SubscribeDataChanges {
 	public static void main(String[] args) throws InterruptedException {
 		ZkClient zkClient = CreateSession.connectZK();
 
-		zkClient.subscribeDataChanges("/aganNode", new ZKDataListener());
+		zkClient.subscribeDataChanges("/simonNode", new ZKDataListener());
 		Thread.sleep(Integer.MAX_VALUE);
 
 	}

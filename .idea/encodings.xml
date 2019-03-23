@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-adpative" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-compiler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tech-case-parent/tech-case-dubbo-spi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tech-case-parent/tech-case-netty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tech-case-parent/tech-case-spring-schema" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tech-case-parent/tech-case-zk" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
